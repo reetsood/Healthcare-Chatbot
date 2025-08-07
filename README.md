@@ -26,9 +26,3 @@ Additional CSV files (optional for extension):
 - `symptom_prescription.csv` – Maps symptoms to suggested prescriptions
 
 
-
-
-
-
-## 🏗️ Project Structure
-
